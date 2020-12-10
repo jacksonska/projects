@@ -1,0 +1,3 @@
+[submodule "security-sys-submit"]
+	path = security-sys-submit
+	url = https://github.com/jacksonska/security-sys-submit.git
