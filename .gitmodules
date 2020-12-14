@@ -1,3 +1,6 @@
 [submodule "security-sys-submit"]
 	path = security-sys-submit
 	url = https://github.com/jacksonska/security-sys-submit.git
+[submodule "libSUDOKU"]
+	path = libSUDOKU
+	url = https://github.com/jacksonska/libSUDOKU.git
