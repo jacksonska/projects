@@ -4,3 +4,6 @@
 [submodule "libSUDOKU"]
 	path = libSUDOKU
 	url = https://github.com/jacksonska/libSUDOKU.git
+[submodule "microsoftp_clone"]
+	path = microsoftp_clone
+	url = https://github.com/jacksonska/microsoftp_clone
